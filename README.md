@@ -41,7 +41,7 @@ sudo apt install cmake g++ libopencv-dev
 
 ### Build
 ```bash
-git clone https://github.com/votre-username/kmeans-cpp-pipeline.git
+git clone https://github.com/MNJuvenal/K-MEANS
 cd kmeans-cpp-pipeline
 mkdir build && cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release
@@ -204,4 +204,4 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 ⭐ **Star ce projet si il vous a été utile !**
 
-📧 **Contact** : [votre-email@example.com](mailto:votre-email@example.com)
+📧 **Contact** : [njuvenal62@gmail.com.com](mailto:njuvenal62@gmail.com)
